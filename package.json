@@ -1,0 +1,20 @@
+{
+  "author": "Kristian Laustsen",
+  "name": "baku",
+  "description": "A file-based model for Node.js",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/klaustsen/baku.git"
+  },
+  "main": "lib/baku.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
