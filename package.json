@@ -1,6 +1,6 @@
 {
   "author": "Kristian Laustsen",
-  "name": "baku",
+  "name": "Baku",
   "description": "A file-based model for Node.js",
   "version": "0.0.0",
   "repository": {
@@ -12,7 +12,10 @@
     "test": "mocha test/*.js"
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "mocha": "",
+    "should": ""
+    },
   "optionalDependencies": {},
   "engines": {
     "node": "*"
